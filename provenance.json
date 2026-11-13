@@ -1,0 +1,16 @@
+{
+  "builder": "sg-mas-trmg-oscal-builder",
+  "builder_version": "0.1.0",
+  "builder_commit": "be0a4aed5053ba5b516bddc6769077a6ab8e0055",
+  "built_at": "2026-11-13T01:14:11+00:00",
+  "source": {
+    "title": "Technology Risk Management Guidelines",
+    "publisher": "Monetary Authority of Singapore",
+    "published": "2021-01-18",
+    "url": "https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf",
+    "sha256": "2b8959e883bd66cb17286bdfc3e04fc181a6cd0ad786c99d4998c2d6c3e0efcb",
+    "copyright": "\u00a9 Crown Copyright, Government of Singapore"
+  },
+  "conversion_license": "Apache-2.0",
+  "conversion_author": "Baden Hughes <baden.hughes@gmail.com>"
+}

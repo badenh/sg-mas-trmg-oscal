@@ -1,0 +1,35 @@
+sg-mas-trmg-oscal
+=================
+
+This repository publishes OSCAL 1.1.2 conversion artifacts derived from the
+MAS Technology Risk Management Guidelines (18 January 2021).
+
+Source document
+---------------
+
+Title:     Technology Risk Management Guidelines
+Publisher: Monetary Authority of Singapore
+Published: 2021-01-18
+URL:       https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf
+
+The source content remains © Crown Copyright, Government of Singapore,
+published by the Monetary Authority of Singapore. The upstream PDF is the
+authoritative text; the OSCAL rendering in this repository is unofficial.
+
+The source PDF itself is NOT redistributed from this repository. The
+`rlinks` in `catalog.json` point to the canonical URL above, and the PDF's
+SHA256 is recorded in `provenance.json` so that downstream consumers can
+reproduce the exact build.
+
+Conversion
+----------
+
+Author:  Baden Hughes <baden.hughes@gmail.com>
+License: Apache License, Version 2.0 (applies to the conversion artifacts
+         in this repository: catalog.json, catalog.yaml, catalog.md,
+         provenance.json, and the supporting documentation files)
+Builder: https://github.com/badenh/sg-mas-trmg-oscal-builder
+
+Any downstream artifact that embeds text derived from the MAS TRMG must
+retain the MAS / Singapore Government copyright notice and clearly identify
+itself as an unofficial machine-readable rendering.
