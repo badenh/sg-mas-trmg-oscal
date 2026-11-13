@@ -55,7 +55,7 @@ Validates clean against:
 
 - Author: Baden Hughes
 - License: Apache-2.0 (conversion artifacts in this repository only)
-- Builder: [`sg-mas-trmg-oscal-builder`](https://github.com/badenh/sg-mas-trmg-oscal-builder) (private)
+- Builder: private repository
 
 Each release's `provenance.json` records the exact builder commit used to
 produce the artifacts. Builds are deterministic: the same builder commit and
@@ -84,7 +84,7 @@ profile:
 ## Reporting issues
 
 Conversion bugs (misparsed text, wrong IDs, missing content): open an issue
-here or at the [builder repository](https://github.com/badenh/sg-mas-trmg-oscal-builder).
+here.
 
 Questions about the source text itself should go to the Monetary Authority of
 Singapore.

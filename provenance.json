@@ -1,8 +1,8 @@
 {
   "builder": "sg-mas-trmg-oscal-builder",
   "builder_version": "0.1.0",
-  "builder_commit": "be0a4aed5053ba5b516bddc6769077a6ab8e0055",
-  "built_at": "2026-11-13T01:14:11+00:00",
+  "builder_commit": "32aac40330b2cbcaae5ea1d0fe9a539a2221dcd4",
+  "built_at": "2026-11-13T01:16:12+00:00",
   "source": {
     "title": "Technology Risk Management Guidelines",
     "publisher": "Monetary Authority of Singapore",
