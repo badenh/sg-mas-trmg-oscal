@@ -15,9 +15,15 @@ Guidelines** (Monetary Authority of Singapore, 18 January 2021).
 | `catalog.json` | OSCAL 1.1.2 catalog (canonical) |
 | `catalog.yaml` | Same catalog, YAML serialisation |
 | `catalog.md`   | Human-readable rendering |
+| `profile-full.json` | OSCAL 1.1.2 profile importing every control (`include-all`) |
+| `resolved/resolved-profile-full.json` | Flattened catalog from profile resolution (present only when the publisher ran `oscal-cli profile resolve`) |
 | `provenance.json` | Builder commit SHA, source URL, PDF SHA256, build time |
 | `CHANGELOG.md` | Per-release change log |
 | `NOTICE` | Copyright + attribution |
+
+TRMG defines no maturity tiers or applicability classes, so only the full
+profile is published. Consumers who need a scoped baseline should author
+their own profile that imports `catalog.json` (see example below).
 
 ## Stats
 
@@ -29,10 +35,12 @@ Guidelines** (Monetary Authority of Singapore, 18 January 2021).
 
 ## Validation
 
-Validates clean against:
+Catalog and profile both validate clean against:
 - OSCAL 1.1.2 JSON Schema
 - [`oscal-cli`](https://github.com/metaschema-framework/oscal-cli) 3.2.0
   (metaschema + Schematron)
+
+When `resolved/` is present, the resolved catalog is validated the same way.
 
 ## Identifiers
 
