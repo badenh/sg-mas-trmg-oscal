@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.2.3 — 2026-11-16
+
+- Builder commit: `9d1bc96199ce7ba042765846bf1c3d63018a2249`
+- Source PDF: [Technology Risk Management Guidelines](https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf)
+- Source SHA256: `2b8959e883bd66cb17286bdfc3e04fc181a6cd0ad786c99d4998c2d6c3e0efcb`
+- Published by: Monetary Authority of Singapore
+- OSCAL version: 1.1.2
+
 ## v0.2.2 — 2026-11-16
 
 - Builder commit: `bb7d569b5a3e1e2d666c64b2128970a4c1a0326a`
