@@ -1,0 +1,98 @@
+{
+  "profile": {
+    "uuid": "66668840-7658-5c70-b6db-0b4168558c45",
+    "metadata": {
+      "title": "Technology Risk Management Guidelines — Chapter 2: Application of the MAS Technology Risk Management Guidelines",
+      "last-modified": "2026-11-16T07:17:06Z",
+      "version": "2021-01-18",
+      "oscal-version": "1.1.2",
+      "props": [
+        {
+          "name": "short-name",
+          "value": "MAS TRMG",
+          "ns": "https://baden.id/ns/trmg"
+        },
+        {
+          "name": "publisher",
+          "value": "Monetary Authority of Singapore",
+          "ns": "https://baden.id/ns/trmg"
+        },
+        {
+          "name": "copyright",
+          "ns": "https://baden.id/ns/trmg",
+          "value": "© Crown Copyright, Government of Singapore. Source content published by the Monetary Authority of Singapore. OSCAL conversion © Baden Hughes, licensed Apache-2.0."
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf",
+          "rel": "canonical",
+          "media-type": "application/pdf"
+        }
+      ],
+      "roles": [
+        {
+          "id": "publisher",
+          "title": "Publisher"
+        },
+        {
+          "id": "converter",
+          "title": "OSCAL Converter"
+        }
+      ],
+      "parties": [
+        {
+          "uuid": "559ef83a-3eaf-5087-886b-462ed76e6a66",
+          "type": "organization",
+          "name": "Monetary Authority of Singapore",
+          "short-name": "MAS",
+          "links": [
+            {
+              "href": "https://www.mas.gov.sg/",
+              "rel": "homepage"
+            }
+          ]
+        },
+        {
+          "uuid": "ec89167b-fe69-5ee6-b2b8-b43f35efb41c",
+          "type": "person",
+          "name": "Baden Hughes",
+          "email-addresses": [
+            "baden.hughes@gmail.com"
+          ]
+        }
+      ],
+      "responsible-parties": [
+        {
+          "role-id": "publisher",
+          "party-uuids": [
+            "559ef83a-3eaf-5087-886b-462ed76e6a66"
+          ]
+        },
+        {
+          "role-id": "converter",
+          "party-uuids": [
+            "ec89167b-fe69-5ee6-b2b8-b43f35efb41c"
+          ]
+        }
+      ]
+    },
+    "imports": [
+      {
+        "href": "catalog.json",
+        "include-controls": [
+          {
+            "with-ids": [
+              "trmg-2.1",
+              "trmg-2.2",
+              "trmg-2.3"
+            ]
+          }
+        ]
+      }
+    ],
+    "merge": {
+      "as-is": true
+    }
+  }
+}
