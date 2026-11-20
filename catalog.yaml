@@ -2,18 +2,18 @@ catalog:
   uuid: 35340144-2a3c-5f66-b4e4-ffea63213f61
   metadata:
     title: Technology Risk Management Guidelines
-    last-modified: '2026-11-16T07:51:33Z'
+    last-modified: '2026-11-20T04:02:27Z'
     version: '2021-01-18'
     oscal-version: 1.1.2
     props:
     - name: short-name
       value: MAS TRMG
-      ns: https://baden.id/ns/trmg
+      ns: https://mas.gov.sg/ns/trmg
     - name: publisher
       value: Monetary Authority of Singapore
-      ns: https://baden.id/ns/trmg
+      ns: https://mas.gov.sg/ns/trmg
     - name: copyright
-      ns: https://baden.id/ns/trmg
+      ns: https://mas.gov.sg/ns/trmg
       value: © Crown Copyright, Government of Singapore. Source content published
         by the Monetary Authority of Singapore. OSCAL conversion © Baden Hughes, licensed
         Apache-2.0.
@@ -62,7 +62,7 @@ catalog:
         value: '1.1'
       - name: source-page
         value: '5'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       parts:
       - id: trmg-1.1_smt
         name: statement
@@ -79,7 +79,7 @@ catalog:
         value: '1.2'
       - name: source-page
         value: '5'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       parts:
       - id: trmg-1.2_smt
         name: statement
@@ -95,7 +95,7 @@ catalog:
         value: '1.3'
       - name: source-page
         value: '5'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       parts:
       - id: trmg-1.3_smt
         name: statement
@@ -116,7 +116,7 @@ catalog:
         value: '1.4'
       - name: source-page
         value: '5'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       parts:
       - id: trmg-1.4_smt
         name: statement
@@ -148,7 +148,7 @@ catalog:
         value: '2.1'
       - name: source-page
         value: '6'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       parts:
       - id: trmg-2.1_smt
         name: statement
@@ -163,7 +163,7 @@ catalog:
         value: '2.2'
       - name: source-page
         value: '6'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       parts:
       - id: trmg-2.2_smt
         name: statement
@@ -182,7 +182,7 @@ catalog:
         value: '2.3'
       - name: source-page
         value: '6'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       parts:
       - id: trmg-2.3_smt
         name: statement
@@ -215,7 +215,7 @@ catalog:
           value: 3.1.1
         - name: source-page
           value: '7'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-3.1.1_smt
           name: statement
@@ -232,7 +232,7 @@ catalog:
           value: 3.1.2
         - name: source-page
           value: '7'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-3.1.2_smt
           name: statement
@@ -247,7 +247,7 @@ catalog:
           value: 3.1.3
         - name: source-page
           value: '7'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-3.1.3_smt
           name: statement
@@ -268,7 +268,7 @@ catalog:
           value: 3.1.4
         - name: source-page
           value: '7'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-3.1.4_smt
           name: statement
@@ -282,7 +282,7 @@ catalog:
           value: 3.1.5
         - name: source-page
           value: '7'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-3.1.5_smt
           name: statement
@@ -296,7 +296,7 @@ catalog:
           value: 3.1.6
         - name: source-page
           value: '7'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-3.1.6_smt
           name: statement
@@ -312,7 +312,7 @@ catalog:
           value: 3.1.7
         - name: source-page
           value: '8'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-3.1.7_smt
           name: statement
@@ -338,7 +338,7 @@ catalog:
           value: 3.1.8
         - name: source-page
           value: '8'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-3.1.8_smt
           name: statement
@@ -371,7 +371,7 @@ catalog:
           value: 3.2.1
         - name: source-page
           value: '9'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-3.2.1_smt
           name: statement
@@ -393,7 +393,7 @@ catalog:
           value: 3.2.2
         - name: source-page
           value: '9'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-3.2.2_smt
           name: statement
@@ -409,7 +409,7 @@ catalog:
           value: 3.2.3
         - name: source-page
           value: '9'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-3.2.3_smt
           name: statement
@@ -431,7 +431,7 @@ catalog:
           value: 3.3.1
         - name: source-page
           value: '9'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-3.3.1_smt
           name: statement
@@ -452,7 +452,7 @@ catalog:
           value: 3.3.2
         - name: source-page
           value: '10'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-3.3.2_smt
           name: statement
@@ -474,7 +474,7 @@ catalog:
           value: 3.4.1
         - name: source-page
           value: '10'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-3.4.1_smt
           name: statement
@@ -492,7 +492,7 @@ catalog:
           value: 3.4.2
         - name: source-page
           value: '10'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-3.4.2_smt
           name: statement
@@ -508,7 +508,7 @@ catalog:
           value: 3.4.3
         - name: source-page
           value: '10'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-3.4.3_smt
           name: statement
@@ -535,7 +535,7 @@ catalog:
           value: 3.5.1
         - name: source-page
           value: '10'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-3.5.1_smt
           name: statement
@@ -551,7 +551,7 @@ catalog:
           value: 3.5.2
         - name: source-page
           value: '11'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-3.5.2_smt
           name: statement
@@ -575,7 +575,7 @@ catalog:
           value: 3.6.1
         - name: source-page
           value: '11'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-3.6.1_smt
           name: statement
@@ -595,7 +595,7 @@ catalog:
           value: 3.6.2
         - name: source-page
           value: '11'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-3.6.2_smt
           name: statement
@@ -610,7 +610,7 @@ catalog:
           value: 3.6.3
         - name: source-page
           value: '11'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-3.6.3_smt
           name: statement
@@ -625,7 +625,7 @@ catalog:
           value: 3.6.4
         - name: source-page
           value: '11'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-3.6.4_smt
           name: statement
@@ -655,7 +655,7 @@ catalog:
           value: 4.1.1
         - name: source-page
           value: '12'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-4.1.1_smt
           name: statement
@@ -671,7 +671,7 @@ catalog:
           value: 4.1.2
         - name: source-page
           value: '12'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-4.1.2_smt
           name: statement
@@ -687,7 +687,7 @@ catalog:
           value: 4.1.3
         - name: source-page
           value: '12'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-4.1.3_smt
           name: statement
@@ -704,7 +704,7 @@ catalog:
           value: 4.1.4
         - name: source-page
           value: '12'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-4.1.4_smt
           name: statement
@@ -727,7 +727,7 @@ catalog:
           value: 4.1.5
         - name: source-page
           value: '12'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-4.1.5_smt
           name: statement
@@ -749,7 +749,7 @@ catalog:
           value: 4.2.1
         - name: source-page
           value: '13'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-4.2.1_smt
           name: statement
@@ -773,7 +773,7 @@ catalog:
           value: 4.3.1
         - name: source-page
           value: '13'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-4.3.1_smt
           name: statement
@@ -789,7 +789,7 @@ catalog:
           value: 4.3.2
         - name: source-page
           value: '13'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-4.3.2_smt
           name: statement
@@ -811,7 +811,7 @@ catalog:
           value: 4.4.1
         - name: source-page
           value: '13'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-4.4.1_smt
           name: statement
@@ -828,7 +828,7 @@ catalog:
           value: 4.4.2
         - name: source-page
           value: '13'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-4.4.2_smt
           name: statement
@@ -845,7 +845,7 @@ catalog:
           value: 4.4.3
         - name: source-page
           value: '13'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-4.4.3_smt
           name: statement
@@ -866,7 +866,7 @@ catalog:
           value: 4.5.1
         - name: source-page
           value: '13'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-4.5.1_smt
           name: statement
@@ -880,7 +880,7 @@ catalog:
           value: 4.5.2
         - name: source-page
           value: '14'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-4.5.2_smt
           name: statement
@@ -897,7 +897,7 @@ catalog:
           value: 4.5.3
         - name: source-page
           value: '14'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-4.5.3_smt
           name: statement
@@ -928,7 +928,7 @@ catalog:
           value: 5.1.1
         - name: source-page
           value: '15'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.1.1_smt
           name: statement
@@ -945,7 +945,7 @@ catalog:
           value: 5.1.2
         - name: source-page
           value: '15'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.1.2_smt
           name: statement
@@ -962,7 +962,7 @@ catalog:
           value: 5.1.3
         - name: source-page
           value: '15'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.1.3_smt
           name: statement
@@ -978,7 +978,7 @@ catalog:
           value: 5.1.4
         - name: source-page
           value: '15'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.1.4_smt
           name: statement
@@ -1001,7 +1001,7 @@ catalog:
           value: 5.2.1
         - name: source-page
           value: '15'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.2.1_smt
           name: statement
@@ -1018,7 +1018,7 @@ catalog:
           value: 5.2.2
         - name: source-page
           value: '15'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.2.2_smt
           name: statement
@@ -1040,7 +1040,7 @@ catalog:
           value: 5.3.1
         - name: source-page
           value: '15'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.3.1_smt
           name: statement
@@ -1057,7 +1057,7 @@ catalog:
           value: 5.3.2
         - name: source-page
           value: '16'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.3.2_smt
           name: statement
@@ -1074,7 +1074,7 @@ catalog:
           value: 5.3.3
         - name: source-page
           value: '16'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.3.3_smt
           name: statement
@@ -1090,7 +1090,7 @@ catalog:
           value: 5.3.4
         - name: source-page
           value: '16'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.3.4_smt
           name: statement
@@ -1115,7 +1115,7 @@ catalog:
           value: 5.4.1
         - name: source-page
           value: '16'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.4.1_smt
           name: statement
@@ -1141,7 +1141,7 @@ catalog:
           value: 5.4.2
         - name: source-page
           value: '16'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.4.2_smt
           name: statement
@@ -1158,7 +1158,7 @@ catalog:
           value: 5.4.3
         - name: source-page
           value: '16'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.4.3_smt
           name: statement
@@ -1173,7 +1173,7 @@ catalog:
           value: 5.4.4
         - name: source-page
           value: '17'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.4.4_smt
           name: statement
@@ -1194,7 +1194,7 @@ catalog:
           value: 5.5.1
         - name: source-page
           value: '17'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.5.1_smt
           name: statement
@@ -1210,7 +1210,7 @@ catalog:
           value: 5.5.2
         - name: source-page
           value: '17'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.5.2_smt
           name: statement
@@ -1232,7 +1232,7 @@ catalog:
           value: 5.6.1
         - name: source-page
           value: '17'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.6.1_smt
           name: statement
@@ -1247,7 +1247,7 @@ catalog:
           value: 5.6.2
         - name: source-page
           value: '17'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.6.2_smt
           name: statement
@@ -1262,7 +1262,7 @@ catalog:
           value: 5.6.3
         - name: source-page
           value: '17'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.6.3_smt
           name: statement
@@ -1284,7 +1284,7 @@ catalog:
           value: 5.7.1
         - name: source-page
           value: '17'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.7.1_smt
           name: statement
@@ -1305,7 +1305,7 @@ catalog:
           value: 5.7.2
         - name: source-page
           value: '18'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.7.2_smt
           name: statement
@@ -1319,7 +1319,7 @@ catalog:
           value: 5.7.3
         - name: source-page
           value: '18'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.7.3_smt
           name: statement
@@ -1334,7 +1334,7 @@ catalog:
           value: 5.7.4
         - name: source-page
           value: '18'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.7.4_smt
           name: statement
@@ -1349,7 +1349,7 @@ catalog:
           value: 5.7.5
         - name: source-page
           value: '18'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.7.5_smt
           name: statement
@@ -1366,7 +1366,7 @@ catalog:
           value: 5.7.6
         - name: source-page
           value: '18'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.7.6_smt
           name: statement
@@ -1387,7 +1387,7 @@ catalog:
           value: 5.8.1
         - name: source-page
           value: '18'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.8.1_smt
           name: statement
@@ -1402,7 +1402,7 @@ catalog:
           value: 5.8.2
         - name: source-page
           value: '18'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-5.8.2_smt
           name: statement
@@ -1431,7 +1431,7 @@ catalog:
           value: 6.1.1
         - name: source-page
           value: '19'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-6.1.1_smt
           name: statement
@@ -1453,7 +1453,7 @@ catalog:
           value: 6.1.2
         - name: source-page
           value: '19'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-6.1.2_smt
           name: statement
@@ -1469,7 +1469,7 @@ catalog:
           value: 6.1.3
         - name: source-page
           value: '19'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-6.1.3_smt
           name: statement
@@ -1484,7 +1484,7 @@ catalog:
           value: 6.1.4
         - name: source-page
           value: '19'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-6.1.4_smt
           name: statement
@@ -1500,7 +1500,7 @@ catalog:
           value: 6.1.5
         - name: source-page
           value: '19'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-6.1.5_smt
           name: statement
@@ -1515,7 +1515,7 @@ catalog:
           value: 6.1.6
         - name: source-page
           value: '19'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-6.1.6_smt
           name: statement
@@ -1533,7 +1533,7 @@ catalog:
           value: 6.1.7
         - name: source-page
           value: '20'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-6.1.7_smt
           name: statement
@@ -1555,7 +1555,7 @@ catalog:
           value: 6.2.1
         - name: source-page
           value: '20'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-6.2.1_smt
           name: statement
@@ -1572,7 +1572,7 @@ catalog:
           value: 6.2.2
         - name: source-page
           value: '20'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-6.2.2_smt
           name: statement
@@ -1593,7 +1593,7 @@ catalog:
           value: 6.3.1
         - name: source-page
           value: '20'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-6.3.1_smt
           name: statement
@@ -1613,7 +1613,7 @@ catalog:
           value: 6.3.2
         - name: source-page
           value: '20'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-6.3.2_smt
           name: statement
@@ -1635,7 +1635,7 @@ catalog:
           value: 6.4.1
         - name: source-page
           value: '20'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-6.4.1_smt
           name: statement
@@ -1660,7 +1660,7 @@ catalog:
           value: 6.4.2
         - name: source-page
           value: '21'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-6.4.2_smt
           name: statement
@@ -1677,7 +1677,7 @@ catalog:
           value: 6.4.3
         - name: source-page
           value: '21'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-6.4.3_smt
           name: statement
@@ -1694,7 +1694,7 @@ catalog:
           value: 6.4.4
         - name: source-page
           value: '21'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-6.4.4_smt
           name: statement
@@ -1716,7 +1716,7 @@ catalog:
           value: 6.4.5
         - name: source-page
           value: '21'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-6.4.5_smt
           name: statement
@@ -1730,7 +1730,7 @@ catalog:
           value: 6.4.6
         - name: source-page
           value: '21'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-6.4.6_smt
           name: statement
@@ -1747,7 +1747,7 @@ catalog:
           value: 6.4.7
         - name: source-page
           value: '21'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-6.4.7_smt
           name: statement
@@ -1764,7 +1764,7 @@ catalog:
           value: 6.4.8
         - name: source-page
           value: '22'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-6.4.8_smt
           name: statement
@@ -1786,7 +1786,7 @@ catalog:
           value: 6.5.1
         - name: source-page
           value: '22'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-6.5.1_smt
           name: statement
@@ -1805,7 +1805,7 @@ catalog:
           value: 6.5.2
         - name: source-page
           value: '22'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-6.5.2_smt
           name: statement
@@ -1819,7 +1819,7 @@ catalog:
           value: 6.5.3
         - name: source-page
           value: '22'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-6.5.3_smt
           name: statement
@@ -1850,7 +1850,7 @@ catalog:
           value: 7.1.1
         - name: source-page
           value: '23'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.1.1_smt
           name: statement
@@ -1877,7 +1877,7 @@ catalog:
           value: 7.2.1
         - name: source-page
           value: '23'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.2.1_smt
           name: statement
@@ -1895,7 +1895,7 @@ catalog:
           value: 7.2.2
         - name: source-page
           value: '23'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.2.2_smt
           name: statement
@@ -1917,7 +1917,7 @@ catalog:
           value: 7.3.1
         - name: source-page
           value: '23'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.3.1_smt
           name: statement
@@ -1935,7 +1935,7 @@ catalog:
           value: 7.3.2
         - name: source-page
           value: '23'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.3.2_smt
           name: statement
@@ -1952,7 +1952,7 @@ catalog:
           value: 7.3.3
         - name: source-page
           value: '24'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.3.3_smt
           name: statement
@@ -1976,7 +1976,7 @@ catalog:
           value: 7.4.1
         - name: source-page
           value: '24'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.4.1_smt
           name: statement
@@ -1992,7 +1992,7 @@ catalog:
           value: 7.4.2
         - name: source-page
           value: '24'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.4.2_smt
           name: statement
@@ -2014,7 +2014,7 @@ catalog:
           value: 7.5.1
         - name: source-page
           value: '24'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.5.1_smt
           name: statement
@@ -2029,7 +2029,7 @@ catalog:
           value: 7.5.2
         - name: source-page
           value: '24'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.5.2_smt
           name: statement
@@ -2045,7 +2045,7 @@ catalog:
           value: 7.5.3
         - name: source-page
           value: '24'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.5.3_smt
           name: statement
@@ -2061,7 +2061,7 @@ catalog:
           value: 7.5.4
         - name: source-page
           value: '24'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.5.4_smt
           name: statement
@@ -2077,7 +2077,7 @@ catalog:
           value: 7.5.5
         - name: source-page
           value: '24'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.5.5_smt
           name: statement
@@ -2093,7 +2093,7 @@ catalog:
           value: 7.5.6
         - name: source-page
           value: '25'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.5.6_smt
           name: statement
@@ -2112,7 +2112,7 @@ catalog:
           value: 7.5.7
         - name: source-page
           value: '25'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.5.7_smt
           name: statement
@@ -2134,7 +2134,7 @@ catalog:
           value: 7.6.1
         - name: source-page
           value: '25'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.6.1_smt
           name: statement
@@ -2154,7 +2154,7 @@ catalog:
           value: 7.6.2
         - name: source-page
           value: '25'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.6.2_smt
           name: statement
@@ -2175,7 +2175,7 @@ catalog:
           value: 7.7.1
         - name: source-page
           value: '25'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.7.1_smt
           name: statement
@@ -2194,7 +2194,7 @@ catalog:
           value: 7.7.2
         - name: source-page
           value: '25'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.7.2_smt
           name: statement
@@ -2212,7 +2212,7 @@ catalog:
           value: 7.7.3
         - name: source-page
           value: '26'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.7.3_smt
           name: statement
@@ -2235,7 +2235,7 @@ catalog:
           value: 7.7.4
         - name: source-page
           value: '26'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.7.4_smt
           name: statement
@@ -2251,7 +2251,7 @@ catalog:
           value: 7.7.5
         - name: source-page
           value: '26'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.7.5_smt
           name: statement
@@ -2268,7 +2268,7 @@ catalog:
           value: 7.7.6
         - name: source-page
           value: '26'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.7.6_smt
           name: statement
@@ -2285,7 +2285,7 @@ catalog:
           value: 7.7.7
         - name: source-page
           value: '26'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.7.7_smt
           name: statement
@@ -2309,7 +2309,7 @@ catalog:
           value: 7.8.1
         - name: source-page
           value: '27'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.8.1_smt
           name: statement
@@ -2324,7 +2324,7 @@ catalog:
           value: 7.8.2
         - name: source-page
           value: '27'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.8.2_smt
           name: statement
@@ -2339,7 +2339,7 @@ catalog:
           value: 7.8.3
         - name: source-page
           value: '27'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-7.8.3_smt
           name: statement
@@ -2370,7 +2370,7 @@ catalog:
           value: 8.1.1
         - name: source-page
           value: '28'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-8.1.1_smt
           name: statement
@@ -2386,7 +2386,7 @@ catalog:
           value: 8.1.2
         - name: source-page
           value: '28'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-8.1.2_smt
           name: statement
@@ -2406,7 +2406,7 @@ catalog:
           value: 8.1.3
         - name: source-page
           value: '28'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-8.1.3_smt
           name: statement
@@ -2427,7 +2427,7 @@ catalog:
           value: 8.1.4
         - name: source-page
           value: '28'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-8.1.4_smt
           name: statement
@@ -2448,7 +2448,7 @@ catalog:
           value: 8.2.1
         - name: source-page
           value: '28'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-8.2.1_smt
           name: statement
@@ -2463,7 +2463,7 @@ catalog:
           value: 8.2.2
         - name: source-page
           value: '28'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-8.2.2_smt
           name: statement
@@ -2480,7 +2480,7 @@ catalog:
           value: 8.2.3
         - name: source-page
           value: '29'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-8.2.3_smt
           name: statement
@@ -2499,7 +2499,7 @@ catalog:
           value: 8.2.4
         - name: source-page
           value: '29'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-8.2.4_smt
           name: statement
@@ -2523,7 +2523,7 @@ catalog:
           value: 8.3.1
         - name: source-page
           value: '29'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-8.3.1_smt
           name: statement
@@ -2541,7 +2541,7 @@ catalog:
           value: 8.3.2
         - name: source-page
           value: '29'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-8.3.2_smt
           name: statement
@@ -2557,7 +2557,7 @@ catalog:
           value: 8.3.3
         - name: source-page
           value: '29'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-8.3.3_smt
           name: statement
@@ -2573,7 +2573,7 @@ catalog:
           value: 8.3.4
         - name: source-page
           value: '29'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-8.3.4_smt
           name: statement
@@ -2598,7 +2598,7 @@ catalog:
           value: 8.4.1
         - name: source-page
           value: '30'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-8.4.1_smt
           name: statement
@@ -2613,7 +2613,7 @@ catalog:
           value: 8.4.2
         - name: source-page
           value: '30'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-8.4.2_smt
           name: statement
@@ -2630,7 +2630,7 @@ catalog:
           value: 8.4.3
         - name: source-page
           value: '30'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-8.4.3_smt
           name: statement
@@ -2644,7 +2644,7 @@ catalog:
           value: 8.4.4
         - name: source-page
           value: '30'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-8.4.4_smt
           name: statement
@@ -2667,7 +2667,7 @@ catalog:
           value: 8.5.1
         - name: source-page
           value: '30'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-8.5.1_smt
           name: statement
@@ -2691,7 +2691,7 @@ catalog:
           value: 8.5.2
         - name: source-page
           value: '30'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-8.5.2_smt
           name: statement
@@ -2712,7 +2712,7 @@ catalog:
           value: 8.5.3
         - name: source-page
           value: '31'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-8.5.3_smt
           name: statement
@@ -2727,7 +2727,7 @@ catalog:
           value: 8.5.4
         - name: source-page
           value: '31'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-8.5.4_smt
           name: statement
@@ -2743,7 +2743,7 @@ catalog:
           value: 8.5.5
         - name: source-page
           value: '31'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-8.5.5_smt
           name: statement
@@ -2759,7 +2759,7 @@ catalog:
           value: 8.5.6
         - name: source-page
           value: '31'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-8.5.6_smt
           name: statement
@@ -2796,7 +2796,7 @@ catalog:
           value: 9.1.1
         - name: source-page
           value: '33'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-9.1.1_smt
           name: statement
@@ -2828,7 +2828,7 @@ catalog:
           value: 9.1.2
         - name: source-page
           value: '33'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-9.1.2_smt
           name: statement
@@ -2848,7 +2848,7 @@ catalog:
           value: 9.1.3
         - name: source-page
           value: '33'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-9.1.3_smt
           name: statement
@@ -2863,7 +2863,7 @@ catalog:
           value: 9.1.4
         - name: source-page
           value: '34'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-9.1.4_smt
           name: statement
@@ -2882,7 +2882,7 @@ catalog:
           value: 9.1.5
         - name: source-page
           value: '34'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-9.1.5_smt
           name: statement
@@ -2901,7 +2901,7 @@ catalog:
           value: 9.1.6
         - name: source-page
           value: '34'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-9.1.6_smt
           name: statement
@@ -2919,7 +2919,7 @@ catalog:
           value: 9.1.7
         - name: source-page
           value: '34'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-9.1.7_smt
           name: statement
@@ -2935,7 +2935,7 @@ catalog:
           value: 9.1.8
         - name: source-page
           value: '34'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-9.1.8_smt
           name: statement
@@ -2957,7 +2957,7 @@ catalog:
           value: 9.2.1
         - name: source-page
           value: '34'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-9.2.1_smt
           name: statement
@@ -2974,7 +2974,7 @@ catalog:
           value: 9.2.2
         - name: source-page
           value: '35'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-9.2.2_smt
           name: statement
@@ -2997,7 +2997,7 @@ catalog:
           value: 9.3.1
         - name: source-page
           value: '35'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-9.3.1_smt
           name: statement
@@ -3016,7 +3016,7 @@ catalog:
           value: 9.3.2
         - name: source-page
           value: '35'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-9.3.2_smt
           name: statement
@@ -3045,7 +3045,7 @@ catalog:
           value: 10.1.1
         - name: source-page
           value: '36'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-10.1.1_smt
           name: statement
@@ -3063,7 +3063,7 @@ catalog:
           value: 10.1.2
         - name: source-page
           value: '36'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-10.1.2_smt
           name: statement
@@ -3078,7 +3078,7 @@ catalog:
           value: 10.1.3
         - name: source-page
           value: '36'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-10.1.3_smt
           name: statement
@@ -3093,7 +3093,7 @@ catalog:
           value: 10.1.4
         - name: source-page
           value: '36'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-10.1.4_smt
           name: statement
@@ -3108,7 +3108,7 @@ catalog:
           value: 10.1.5
         - name: source-page
           value: '36'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-10.1.5_smt
           name: statement
@@ -3130,7 +3130,7 @@ catalog:
           value: 10.2.1
         - name: source-page
           value: '36'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-10.2.1_smt
           name: statement
@@ -3145,7 +3145,7 @@ catalog:
           value: 10.2.2
         - name: source-page
           value: '36'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-10.2.2_smt
           name: statement
@@ -3161,7 +3161,7 @@ catalog:
           value: 10.2.3
         - name: source-page
           value: '36'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-10.2.3_smt
           name: statement
@@ -3178,7 +3178,7 @@ catalog:
           value: 10.2.4
         - name: source-page
           value: '37'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-10.2.4_smt
           name: statement
@@ -3193,7 +3193,7 @@ catalog:
           value: 10.2.5
         - name: source-page
           value: '37'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-10.2.5_smt
           name: statement
@@ -3209,7 +3209,7 @@ catalog:
           value: 10.2.6
         - name: source-page
           value: '37'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-10.2.6_smt
           name: statement
@@ -3225,7 +3225,7 @@ catalog:
           value: 10.2.7
         - name: source-page
           value: '37'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-10.2.7_smt
           name: statement
@@ -3240,7 +3240,7 @@ catalog:
           value: 10.2.8
         - name: source-page
           value: '37'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-10.2.8_smt
           name: statement
@@ -3255,7 +3255,7 @@ catalog:
           value: 10.2.9
         - name: source-page
           value: '37'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-10.2.9_smt
           name: statement
@@ -3271,7 +3271,7 @@ catalog:
           value: 10.2.10
         - name: source-page
           value: '37'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-10.2.10_smt
           name: statement
@@ -3300,7 +3300,7 @@ catalog:
           value: 11.1.1
         - name: source-page
           value: '38'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.1.1_smt
           name: statement
@@ -3321,7 +3321,7 @@ catalog:
           value: 11.1.2
         - name: source-page
           value: '38'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.1.2_smt
           name: statement
@@ -3338,7 +3338,7 @@ catalog:
           value: 11.1.3
         - name: source-page
           value: '38'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.1.3_smt
           name: statement
@@ -3354,7 +3354,7 @@ catalog:
           value: 11.1.4
         - name: source-page
           value: '38'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.1.4_smt
           name: statement
@@ -3369,7 +3369,7 @@ catalog:
           value: 11.1.5
         - name: source-page
           value: '38'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.1.5_smt
           name: statement
@@ -3385,7 +3385,7 @@ catalog:
           value: 11.1.6
         - name: source-page
           value: '38'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.1.6_smt
           name: statement
@@ -3404,7 +3404,7 @@ catalog:
           value: 11.1.7
         - name: source-page
           value: '39'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.1.7_smt
           name: statement
@@ -3426,7 +3426,7 @@ catalog:
           value: 11.2.1
         - name: source-page
           value: '39'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.2.1_smt
           name: statement
@@ -3441,7 +3441,7 @@ catalog:
           value: 11.2.2
         - name: source-page
           value: '39'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.2.2_smt
           name: statement
@@ -3458,7 +3458,7 @@ catalog:
           value: 11.2.3
         - name: source-page
           value: '39'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.2.3_smt
           name: statement
@@ -3472,7 +3472,7 @@ catalog:
           value: 11.2.4
         - name: source-page
           value: '39'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.2.4_smt
           name: statement
@@ -3486,7 +3486,7 @@ catalog:
           value: 11.2.5
         - name: source-page
           value: '39'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.2.5_smt
           name: statement
@@ -3503,7 +3503,7 @@ catalog:
           value: 11.2.6
         - name: source-page
           value: '39'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.2.6_smt
           name: statement
@@ -3520,7 +3520,7 @@ catalog:
           value: 11.2.7
         - name: source-page
           value: '40'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.2.7_smt
           name: statement
@@ -3540,7 +3540,7 @@ catalog:
           value: 11.2.8
         - name: source-page
           value: '40'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.2.8_smt
           name: statement
@@ -3563,7 +3563,7 @@ catalog:
           value: 11.3.1
         - name: source-page
           value: '40'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.3.1_smt
           name: statement
@@ -3579,7 +3579,7 @@ catalog:
           value: 11.3.2
         - name: source-page
           value: '40'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.3.2_smt
           name: statement
@@ -3594,7 +3594,7 @@ catalog:
           value: 11.3.3
         - name: source-page
           value: '40'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.3.3_smt
           name: statement
@@ -3611,7 +3611,7 @@ catalog:
           value: 11.3.4
         - name: source-page
           value: '40'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.3.4_smt
           name: statement
@@ -3626,7 +3626,7 @@ catalog:
           value: 11.3.5
         - name: source-page
           value: '40'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.3.5_smt
           name: statement
@@ -3643,7 +3643,7 @@ catalog:
           value: 11.3.6
         - name: source-page
           value: '41'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.3.6_smt
           name: statement
@@ -3658,7 +3658,7 @@ catalog:
           value: 11.3.7
         - name: source-page
           value: '41'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.3.7_smt
           name: statement
@@ -3686,7 +3686,7 @@ catalog:
           value: 11.4.1
         - name: source-page
           value: '41'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.4.1_smt
           name: statement
@@ -3713,7 +3713,7 @@ catalog:
           value: 11.4.2
         - name: source-page
           value: '41'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.4.2_smt
           name: statement
@@ -3728,7 +3728,7 @@ catalog:
           value: 11.4.3
         - name: source-page
           value: '41'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.4.3_smt
           name: statement
@@ -3752,7 +3752,7 @@ catalog:
           value: 11.5.1
         - name: source-page
           value: '42'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.5.1_smt
           name: statement
@@ -3770,7 +3770,7 @@ catalog:
           value: 11.5.2
         - name: source-page
           value: '42'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.5.2_smt
           name: statement
@@ -3787,7 +3787,7 @@ catalog:
           value: 11.5.3
         - name: source-page
           value: '42'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.5.3_smt
           name: statement
@@ -3805,7 +3805,7 @@ catalog:
           value: 11.5.4
         - name: source-page
           value: '42'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.5.4_smt
           name: statement
@@ -3819,7 +3819,7 @@ catalog:
           value: 11.5.5
         - name: source-page
           value: '42'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-11.5.5_smt
           name: statement
@@ -3848,7 +3848,7 @@ catalog:
           value: 12.1.1
         - name: source-page
           value: '43'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-12.1.1_smt
           name: statement
@@ -3865,7 +3865,7 @@ catalog:
           value: 12.1.2
         - name: source-page
           value: '43'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-12.1.2_smt
           name: statement
@@ -3882,7 +3882,7 @@ catalog:
           value: 12.1.3
         - name: source-page
           value: '43'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-12.1.3_smt
           name: statement
@@ -3905,7 +3905,7 @@ catalog:
           value: 12.2.1
         - name: source-page
           value: '43'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-12.2.1_smt
           name: statement
@@ -3926,7 +3926,7 @@ catalog:
           value: 12.2.2
         - name: source-page
           value: '43'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-12.2.2_smt
           name: statement
@@ -3945,7 +3945,7 @@ catalog:
           value: 12.2.3
         - name: source-page
           value: '44'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-12.2.3_smt
           name: statement
@@ -3961,7 +3961,7 @@ catalog:
           value: 12.2.4
         - name: source-page
           value: '44'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-12.2.4_smt
           name: statement
@@ -3978,7 +3978,7 @@ catalog:
           value: 12.2.5
         - name: source-page
           value: '44'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-12.2.5_smt
           name: statement
@@ -3992,7 +3992,7 @@ catalog:
           value: 12.2.6
         - name: source-page
           value: '44'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-12.2.6_smt
           name: statement
@@ -4014,7 +4014,7 @@ catalog:
           value: 12.3.1
         - name: source-page
           value: '44'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-12.3.1_smt
           name: statement
@@ -4030,7 +4030,7 @@ catalog:
           value: 12.3.2
         - name: source-page
           value: '44'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-12.3.2_smt
           name: statement
@@ -4046,7 +4046,7 @@ catalog:
           value: 12.3.3
         - name: source-page
           value: '44'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-12.3.3_smt
           name: statement
@@ -4075,7 +4075,7 @@ catalog:
           value: 13.1.1
         - name: source-page
           value: '45'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-13.1.1_smt
           name: statement
@@ -4092,7 +4092,7 @@ catalog:
           value: 13.1.2
         - name: source-page
           value: '45'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-13.1.2_smt
           name: statement
@@ -4115,7 +4115,7 @@ catalog:
           value: 13.2.1
         - name: source-page
           value: '45'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-13.2.1_smt
           name: statement
@@ -4135,7 +4135,7 @@ catalog:
           value: 13.2.2
         - name: source-page
           value: '45'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-13.2.2_smt
           name: statement
@@ -4152,7 +4152,7 @@ catalog:
           value: 13.2.3
         - name: source-page
           value: '45'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-13.2.3_smt
           name: statement
@@ -4168,7 +4168,7 @@ catalog:
           value: 13.2.4
         - name: source-page
           value: '45'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-13.2.4_smt
           name: statement
@@ -4192,7 +4192,7 @@ catalog:
           value: 13.3.1
         - name: source-page
           value: '46'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-13.3.1_smt
           name: statement
@@ -4219,7 +4219,7 @@ catalog:
           value: 13.3.2
         - name: source-page
           value: '46'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-13.3.2_smt
           name: statement
@@ -4242,7 +4242,7 @@ catalog:
           value: 13.4.1
         - name: source-page
           value: '47'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-13.4.1_smt
           name: statement
@@ -4261,7 +4261,7 @@ catalog:
           value: 13.4.2
         - name: source-page
           value: '47'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-13.4.2_smt
           name: statement
@@ -4289,7 +4289,7 @@ catalog:
           value: 13.5.1
         - name: source-page
           value: '47'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-13.5.1_smt
           name: statement
@@ -4304,7 +4304,7 @@ catalog:
           value: 13.5.2
         - name: source-page
           value: '47'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-13.5.2_smt
           name: statement
@@ -4327,7 +4327,7 @@ catalog:
           value: 13.6.1
         - name: source-page
           value: '47'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-13.6.1_smt
           name: statement
@@ -4359,7 +4359,7 @@ catalog:
           value: 14.1.1
         - name: source-page
           value: '49'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.1.1_smt
           name: statement
@@ -4381,7 +4381,7 @@ catalog:
           value: 14.1.2
         - name: source-page
           value: '49'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.1.2_smt
           name: statement
@@ -4395,7 +4395,7 @@ catalog:
           value: 14.1.3
         - name: source-page
           value: '49'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.1.3_smt
           name: statement
@@ -4419,7 +4419,7 @@ catalog:
           value: 14.1.4
         - name: source-page
           value: '49'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.1.4_smt
           name: statement
@@ -4435,7 +4435,7 @@ catalog:
           value: 14.1.5
         - name: source-page
           value: '49'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.1.5_smt
           name: statement
@@ -4450,7 +4450,7 @@ catalog:
           value: 14.1.6
         - name: source-page
           value: '50'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.1.6_smt
           name: statement
@@ -4467,7 +4467,7 @@ catalog:
           value: 14.1.7
         - name: source-page
           value: '50'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.1.7_smt
           name: statement
@@ -4491,7 +4491,7 @@ catalog:
           value: 14.2.1
         - name: source-page
           value: '50'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.2.1_smt
           name: statement
@@ -4509,7 +4509,7 @@ catalog:
           value: 14.2.2
         - name: source-page
           value: '50'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.2.2_smt
           name: statement
@@ -4527,7 +4527,7 @@ catalog:
           value: 14.2.3
         - name: source-page
           value: '50'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.2.3_smt
           name: statement
@@ -4545,7 +4545,7 @@ catalog:
           value: 14.2.4
         - name: source-page
           value: '50'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.2.4_smt
           name: statement
@@ -4561,7 +4561,7 @@ catalog:
           value: 14.2.5
         - name: source-page
           value: '50'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.2.5_smt
           name: statement
@@ -4576,7 +4576,7 @@ catalog:
           value: 14.2.6
         - name: source-page
           value: '51'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.2.6_smt
           name: statement
@@ -4596,7 +4596,7 @@ catalog:
           value: 14.2.7
         - name: source-page
           value: '51'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.2.7_smt
           name: statement
@@ -4619,7 +4619,7 @@ catalog:
           value: 14.2.8
         - name: source-page
           value: '51'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.2.8_smt
           name: statement
@@ -4644,7 +4644,7 @@ catalog:
           value: 14.2.9
         - name: source-page
           value: '51'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.2.9_smt
           name: statement
@@ -4662,7 +4662,7 @@ catalog:
           value: 14.2.10
         - name: source-page
           value: '51'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.2.10_smt
           name: statement
@@ -4679,7 +4679,7 @@ catalog:
           value: 14.2.11
         - name: source-page
           value: '51'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.2.11_smt
           name: statement
@@ -4703,7 +4703,7 @@ catalog:
           value: 14.3.1
         - name: source-page
           value: '52'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.3.1_smt
           name: statement
@@ -4721,7 +4721,7 @@ catalog:
           value: 14.3.2
         - name: source-page
           value: '52'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.3.2_smt
           name: statement
@@ -4735,7 +4735,7 @@ catalog:
           value: 14.3.3
         - name: source-page
           value: '52'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.3.3_smt
           name: statement
@@ -4759,7 +4759,7 @@ catalog:
           value: 14.4.1
         - name: source-page
           value: '52'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.4.1_smt
           name: statement
@@ -4775,7 +4775,7 @@ catalog:
           value: 14.4.2
         - name: source-page
           value: '52'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.4.2_smt
           name: statement
@@ -4789,7 +4789,7 @@ catalog:
           value: 14.4.3
         - name: source-page
           value: '52'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-14.4.3_smt
           name: statement
@@ -4818,7 +4818,7 @@ catalog:
           value: 15.1.1
         - name: source-page
           value: '53'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-15.1.1_smt
           name: statement
@@ -4836,7 +4836,7 @@ catalog:
           value: 15.1.2
         - name: source-page
           value: '53'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-15.1.2_smt
           name: statement
@@ -4852,7 +4852,7 @@ catalog:
           value: 15.1.3
         - name: source-page
           value: '53'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-15.1.3_smt
           name: statement
@@ -4866,7 +4866,7 @@ catalog:
           value: 15.1.4
         - name: source-page
           value: '53'
-          ns: https://baden.id/ns/trmg
+          ns: https://mas.gov.sg/ns/trmg
         parts:
         - id: trmg-15.1.4_smt
           name: statement
@@ -4907,10 +4907,10 @@ catalog:
       props:
       - name: label
         value: annex-a
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: annex
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf
         media-type: application/pdf
@@ -4932,10 +4932,10 @@ catalog:
       props:
       - name: label
         value: annex-b
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: annex
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf
         media-type: application/pdf
@@ -4957,10 +4957,10 @@ catalog:
       props:
       - name: label
         value: annex-c
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: annex
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf
         media-type: application/pdf
@@ -4980,13 +4980,13 @@ catalog:
       props:
       - name: label
         value: '1'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '7'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=7
         media-type: application/pdf
@@ -4999,13 +4999,13 @@ catalog:
       props:
       - name: label
         value: '2'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '9'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=9
         media-type: application/pdf
@@ -5020,13 +5020,13 @@ catalog:
       props:
       - name: label
         value: '3'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '9'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=9
         media-type: application/pdf
@@ -5037,13 +5037,13 @@ catalog:
       props:
       - name: label
         value: '4'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '10'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=10
         media-type: application/pdf
@@ -5055,13 +5055,13 @@ catalog:
       props:
       - name: label
         value: '5'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '16'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=16
         media-type: application/pdf
@@ -5072,13 +5072,13 @@ catalog:
       props:
       - name: label
         value: '6'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '16'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=16
         media-type: application/pdf
@@ -5089,13 +5089,13 @@ catalog:
       props:
       - name: label
         value: '7'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '17'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=17
         media-type: application/pdf
@@ -5107,13 +5107,13 @@ catalog:
       props:
       - name: label
         value: '8'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '19'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=19
         media-type: application/pdf
@@ -5124,13 +5124,13 @@ catalog:
       props:
       - name: label
         value: '9'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '20'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=20
         media-type: application/pdf
@@ -5142,13 +5142,13 @@ catalog:
       props:
       - name: label
         value: '10'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '21'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=21
         media-type: application/pdf
@@ -5158,13 +5158,13 @@ catalog:
       props:
       - name: label
         value: '11'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '25'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=25
         media-type: application/pdf
@@ -5175,13 +5175,13 @@ catalog:
       props:
       - name: label
         value: '12'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '26'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=26
         media-type: application/pdf
@@ -5194,13 +5194,13 @@ catalog:
       props:
       - name: label
         value: '13'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '28'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=28
         media-type: application/pdf
@@ -5211,13 +5211,13 @@ catalog:
       props:
       - name: label
         value: '14'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '30'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=30
         media-type: application/pdf
@@ -5229,13 +5229,13 @@ catalog:
       props:
       - name: label
         value: '15'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '33'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=33
         media-type: application/pdf
@@ -5248,13 +5248,13 @@ catalog:
       props:
       - name: label
         value: '16'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '33'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=33
         media-type: application/pdf
@@ -5268,13 +5268,13 @@ catalog:
       props:
       - name: label
         value: '17'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '33'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=33
         media-type: application/pdf
@@ -5288,13 +5288,13 @@ catalog:
       props:
       - name: label
         value: '18'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '33'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=33
         media-type: application/pdf
@@ -5305,13 +5305,13 @@ catalog:
       props:
       - name: label
         value: '19'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '33'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=33
         media-type: application/pdf
@@ -5322,13 +5322,13 @@ catalog:
       props:
       - name: label
         value: '20'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '34'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=34
         media-type: application/pdf
@@ -5342,13 +5342,13 @@ catalog:
       props:
       - name: label
         value: '21'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '34'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=34
         media-type: application/pdf
@@ -5359,13 +5359,13 @@ catalog:
       props:
       - name: label
         value: '22'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '40'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=40
         media-type: application/pdf
@@ -5376,13 +5376,13 @@ catalog:
       props:
       - name: label
         value: '23'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '41'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=41
         media-type: application/pdf
@@ -5395,13 +5395,13 @@ catalog:
       props:
       - name: label
         value: '24'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '41'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=41
         media-type: application/pdf
@@ -5412,13 +5412,13 @@ catalog:
       props:
       - name: label
         value: '25'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '41'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=41
         media-type: application/pdf
@@ -5431,13 +5431,13 @@ catalog:
       props:
       - name: label
         value: '26'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '43'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=43
         media-type: application/pdf
@@ -5448,13 +5448,13 @@ catalog:
       props:
       - name: label
         value: '27'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '43'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=43
         media-type: application/pdf
@@ -5469,13 +5469,13 @@ catalog:
       props:
       - name: label
         value: '28'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '45'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=45
         media-type: application/pdf
@@ -5487,13 +5487,13 @@ catalog:
       props:
       - name: label
         value: '29'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '46'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=46
         media-type: application/pdf
@@ -5510,13 +5510,13 @@ catalog:
       props:
       - name: label
         value: '30'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '46'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=46
         media-type: application/pdf
@@ -5530,13 +5530,13 @@ catalog:
       props:
       - name: label
         value: '31'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '46'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=46
         media-type: application/pdf
@@ -5552,13 +5552,13 @@ catalog:
       props:
       - name: label
         value: '32'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '47'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=47
         media-type: application/pdf
@@ -5572,13 +5572,13 @@ catalog:
       props:
       - name: label
         value: '33'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '47'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=47
         media-type: application/pdf
@@ -5591,13 +5591,13 @@ catalog:
       props:
       - name: label
         value: '34'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '49'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=49
         media-type: application/pdf
@@ -5612,13 +5612,13 @@ catalog:
       props:
       - name: label
         value: '35'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '49'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=49
         media-type: application/pdf
@@ -5631,13 +5631,13 @@ catalog:
       props:
       - name: label
         value: '36'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '49'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=49
         media-type: application/pdf
@@ -5648,13 +5648,13 @@ catalog:
       props:
       - name: label
         value: '37'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '51'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=51
         media-type: application/pdf
@@ -5665,13 +5665,13 @@ catalog:
       props:
       - name: label
         value: '38'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '51'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=51
         media-type: application/pdf
@@ -5682,13 +5682,13 @@ catalog:
       props:
       - name: label
         value: '39'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '51'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=51
         media-type: application/pdf
@@ -5699,13 +5699,13 @@ catalog:
       props:
       - name: label
         value: '40'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '51'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=51
         media-type: application/pdf
@@ -5716,13 +5716,13 @@ catalog:
       props:
       - name: label
         value: '41'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '51'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=51
         media-type: application/pdf
@@ -5735,13 +5735,13 @@ catalog:
       props:
       - name: label
         value: '42'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: source-page
         value: '52'
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       - name: type
         value: footnote
-        ns: https://baden.id/ns/trmg
+        ns: https://mas.gov.sg/ns/trmg
       rlinks:
       - href: https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulatory-and-supervisory-framework/risk-management/trm-guidelines-18-january-2021.pdf#page=52
         media-type: application/pdf

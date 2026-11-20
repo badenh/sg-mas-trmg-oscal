@@ -3,23 +3,23 @@
     "uuid": "67c80008-f2e2-5dce-9a45-66d69edaf4a6",
     "metadata": {
       "title": "Technology Risk Management Guidelines — Full Profile",
-      "last-modified": "2026-11-16T07:51:33Z",
+      "last-modified": "2026-11-20T04:02:27Z",
       "version": "2021-01-18",
       "oscal-version": "1.1.2",
       "props": [
         {
           "name": "short-name",
           "value": "MAS TRMG",
-          "ns": "https://baden.id/ns/trmg"
+          "ns": "https://mas.gov.sg/ns/trmg"
         },
         {
           "name": "publisher",
           "value": "Monetary Authority of Singapore",
-          "ns": "https://baden.id/ns/trmg"
+          "ns": "https://mas.gov.sg/ns/trmg"
         },
         {
           "name": "copyright",
-          "ns": "https://baden.id/ns/trmg",
+          "ns": "https://mas.gov.sg/ns/trmg",
           "value": "© Crown Copyright, Government of Singapore. Source content published by the Monetary Authority of Singapore. OSCAL conversion © Baden Hughes, licensed Apache-2.0."
         }
       ],
